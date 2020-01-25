@@ -8,6 +8,5 @@ apiRouter.route('/')
 .get(getAllHeroes)
 .all(unhandledMethod)
 
-
 export = apiRouter;
 

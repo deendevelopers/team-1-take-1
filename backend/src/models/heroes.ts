@@ -11,7 +11,7 @@ export const heroes = [
         "media_book": "https://www.scribd.com/doc/121625686/Kitab-al-Tasrif",
         "date": "01-Jun-1000",
         "location": "37.8882° N, 4.7794° W",
-        "linked_to": [1]
+        "linked_to": [2]
     },
     {
         "id": 2,
@@ -39,7 +39,7 @@ export const heroes = [
         "media_book": null,
         "date": "19-Feb-1005",
         "location": "37.8882° N, 4.7794° W",
-        "linked_to": [1,]
+        "linked_to": [5]
     },
     {
         "id": 4,
@@ -67,7 +67,7 @@ export const heroes = [
         "media_book": null,
         "date": "30-Aug-980",
         "location": "39.9939° N, 64.3771° E",
-        "linked_to": [2,3]
+        "linked_to": [3]
     },
     {
         "id": 6,
@@ -95,7 +95,7 @@ export const heroes = [
         "media_book": "http://data.nur.nu/Kutub/English/Avicenna_Canon-of-Medicine_text.pdf",
         "date": "13-Dec-1025",
         "location": "34.7989° N, 48.5150° E",
-        "linked_to": [1]
+        "linked_to": []
     },
     {
         "id": 8,
